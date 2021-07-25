@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rob2thinking
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in Python Software Development. 
 
 - 🌱 I’m currently learning ...
 
