@@ -8,4 +8,4 @@
 
 - 📫  How to reach me ...
 
-buddhist.wannabe@gmail.com
+itredfox2@gmail.com
