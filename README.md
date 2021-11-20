@@ -1,4 +1,4 @@
-- 👋  Hi, I’m @buddhistwannabe
+- 👋  Hi, I’m @itredfox2
 
 - 👀  I’m a Python Developer wannabe :) 
 
